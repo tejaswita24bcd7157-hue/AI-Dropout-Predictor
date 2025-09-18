@@ -1,2 +1,2 @@
 # AI-Dropout-Predictor
-AI Dropout Predictor
+The AI dropout model was developed entirely from scratch, beginning with the creation of a synthetic dataset because no institutional data was available. This dataset included key academic and behavioral factors such as CGPA, attendance, assignment submissions, and fee dues to reflect real-world dropout indicators. Using this data, we trained a machine-learning model to predict the likelihood of a student dropping out. Finally, we built a user-friendly front-end interface with Flask and integrated it with the trained model.
