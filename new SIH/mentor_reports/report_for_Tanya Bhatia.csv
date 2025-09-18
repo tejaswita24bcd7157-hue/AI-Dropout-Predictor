@@ -1,0 +1,24 @@
+student_id,student_name,risk_category,counselling_suggestions,financial_aid_suggestions
+STU495,Ravi Bhat,High Risk,Counselling for attendance issues is recommended.,Urgent: Suggest emergency financial aid or government scholarships.
+STU182,Arjun Nair,High Risk,Counselling for attendance issues is recommended.,Urgent: Suggest emergency financial aid or government scholarships.
+STU156,Priya Kulkarni,High Risk,"Needs academic support (bi-weekly mentoring, study workshops). Counselling for attendance issues is recommended.",Urgent: Suggest emergency financial aid or government scholarships.
+STU420,Aarav Menon,High Risk,Counselling for attendance issues is recommended.,Urgent: Suggest emergency financial aid or government scholarships.
+STU062,Divya Saxena,High Risk,"Needs academic support (bi-weekly mentoring, study workshops). Counselling for attendance issues is recommended.",Urgent: Suggest emergency financial aid or government scholarships.
+STU228,Dev Dutta,Medium Risk,"Needs academic support (bi-weekly mentoring, study workshops). Counselling for attendance issues is recommended.",Suggest scholarships or explore fee installment plans.
+STU416,Abhay Mishra,Medium Risk,Counselling for attendance issues is recommended.,No immediate action needed for fees.
+STU277,Ananya Iyer,Medium Risk,"Needs academic support (bi-weekly mentoring, study workshops).",Urgent: Suggest emergency financial aid or government scholarships.
+STU284,Rohan Nair,Medium Risk,Counselling for attendance issues is recommended.,Suggest scholarships or explore fee installment plans.
+STU485,Harsh Menon,Medium Risk,"Needs academic support (bi-weekly mentoring, study workshops).",Suggest scholarships or explore fee installment plans.
+STU362,Kunal Malhotra,Medium Risk,"Needs academic support (bi-weekly mentoring, study workshops). Counselling for attendance issues is recommended.",No immediate action needed for fees.
+STU374,Varun Chopra,Medium Risk,Good. Monitor progress and encourage continued performance.,Urgent: Suggest emergency financial aid or government scholarships.
+STU426,Ritika Kulkarni,Medium Risk,"Needs academic support (bi-weekly mentoring, study workshops).",Urgent: Suggest emergency financial aid or government scholarships.
+STU081,Sneha Dutta,Medium Risk,"Needs academic support (bi-weekly mentoring, study workshops).",Urgent: Suggest emergency financial aid or government scholarships.
+STU472,Arjun Ganguly,Low Risk,Good. Monitor progress and encourage continued performance.,No immediate action needed for fees.
+STU459,Siddharth Reddy,Low Risk,"Needs academic support (bi-weekly mentoring, study workshops).",No immediate action needed for fees.
+STU452,Ravi Khanna,Low Risk,"Needs academic support (bi-weekly mentoring, study workshops).",Suggest scholarships or explore fee installment plans.
+STU051,Maya Das,Low Risk,Good. Monitor progress and encourage continued performance.,No immediate action needed for fees.
+STU260,Maya Saxena,Low Risk,Good. Monitor progress and encourage continued performance.,No immediate action needed for fees.
+STU243,Tanvi Rao,Low Risk,"Needs academic support (bi-weekly mentoring, study workshops).",Suggest scholarships or explore fee installment plans.
+STU203,Sameer Menon,Low Risk,"Needs academic support (bi-weekly mentoring, study workshops).",Suggest scholarships or explore fee installment plans.
+STU384,Abhay Dutta,Low Risk,Good. Monitor progress and encourage continued performance.,No immediate action needed for fees.
+STU341,Ravi Nair,Low Risk,Good. Monitor progress and encourage continued performance.,No immediate action needed for fees.

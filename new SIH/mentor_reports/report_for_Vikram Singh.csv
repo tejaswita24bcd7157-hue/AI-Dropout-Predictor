@@ -1,0 +1,27 @@
+student_id,student_name,risk_category,counselling_suggestions,financial_aid_suggestions
+STU396,Divya Singh,High Risk,"Needs academic support (bi-weekly mentoring, study workshops).",Urgent: Suggest emergency financial aid or government scholarships.
+STU053,Kunal Bose,High Risk,"Needs academic support (bi-weekly mentoring, study workshops).",Urgent: Suggest emergency financial aid or government scholarships.
+STU091,Kabir Reddy,High Risk,"Needs academic support (bi-weekly mentoring, study workshops). Counselling for attendance issues is recommended.",Urgent: Suggest emergency financial aid or government scholarships.
+STU334,Ashwin Ganguly,High Risk,"Needs academic support (bi-weekly mentoring, study workshops). Counselling for attendance issues is recommended.",Urgent: Suggest emergency financial aid or government scholarships.
+STU264,Pooja Mehta,High Risk,"Needs academic support (bi-weekly mentoring, study workshops). Counselling for attendance issues is recommended.",Urgent: Suggest emergency financial aid or government scholarships.
+STU184,Simran Mehta,High Risk,"Needs academic support (bi-weekly mentoring, study workshops).",Urgent: Suggest emergency financial aid or government scholarships.
+STU004,Alok Rao,Medium Risk,"Needs academic support (bi-weekly mentoring, study workshops).",Urgent: Suggest emergency financial aid or government scholarships.
+STU389,Jyoti Gupta,Medium Risk,Good. Monitor progress and encourage continued performance.,Urgent: Suggest emergency financial aid or government scholarships.
+STU346,Manav Joshi,Medium Risk,Counselling for attendance issues is recommended.,Suggest scholarships or explore fee installment plans.
+STU297,Sanya Mishra,Medium Risk,Counselling for attendance issues is recommended.,Suggest scholarships or explore fee installment plans.
+STU251,Priya Dutta,Medium Risk,Good. Monitor progress and encourage continued performance.,Urgent: Suggest emergency financial aid or government scholarships.
+STU479,Meera Iyer,Medium Risk,"Needs academic support (bi-weekly mentoring, study workshops).",Suggest scholarships or explore fee installment plans.
+STU168,Rekha Khanna,Medium Risk,"Needs academic support (bi-weekly mentoring, study workshops).",Urgent: Suggest emergency financial aid or government scholarships.
+STU131,Ritu Singh,Medium Risk,"Needs academic support (bi-weekly mentoring, study workshops). Counselling for attendance issues is recommended.",Suggest scholarships or explore fee installment plans.
+STU122,Sneha Mehta,Medium Risk,Counselling for attendance issues is recommended.,Suggest scholarships or explore fee installment plans.
+STU043,Meera Pillai,Medium Risk,"Needs academic support (bi-weekly mentoring, study workshops). Counselling for attendance issues is recommended.",No immediate action needed for fees.
+STU403,Kavya Menon,Low Risk,"Needs academic support (bi-weekly mentoring, study workshops).",No immediate action needed for fees.
+STU200,Neha Malhotra,Low Risk,Good. Monitor progress and encourage continued performance.,No immediate action needed for fees.
+STU273,Nikhil Iyer,Low Risk,Counselling for attendance issues is recommended.,No immediate action needed for fees.
+STU275,Ishita Banerjee,Low Risk,"Needs academic support (bi-weekly mentoring, study workshops).",No immediate action needed for fees.
+STU150,Ravi Gupta,Low Risk,Good. Monitor progress and encourage continued performance.,No immediate action needed for fees.
+STU299,Anjali Mehta,Low Risk,"Needs academic support (bi-weekly mentoring, study workshops).",Suggest scholarships or explore fee installment plans.
+STU064,Kabir Saxena,Low Risk,"Needs academic support (bi-weekly mentoring, study workshops).",No immediate action needed for fees.
+STU395,Arjun Das,Low Risk,"Needs academic support (bi-weekly mentoring, study workshops).",No immediate action needed for fees.
+STU229,Harsh Nair,Low Risk,Good. Monitor progress and encourage continued performance.,No immediate action needed for fees.
+STU241,Vivek Rao,Low Risk,Counselling for attendance issues is recommended.,No immediate action needed for fees.

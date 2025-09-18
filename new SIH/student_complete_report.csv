@@ -1,0 +1,501 @@
+student_name,student_id,cgpa,internals,attendance,Fees_Amount_Due,financial_default,financial_default_encoded,financial_risk,attendance_risk,internals_risk,cgpa_risk,final_risk_score,risk_category,counselling_suggestions,financial_aid_suggestion,mentor_name,mentor_id
+Pooja Ganguly,STU167,3.3,3.0,47.0,109471.0,very_large,5.0,10,9,8,8,9.2,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Aarav Sharma,M001
+Kavya Mehta,STU298,8.0,1.0,53.0,138596.0,very_large,5.0,10,7,2,2,7.1,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Isha Patel,M002
+Ashwin Choudhary,STU340,3.9,0.0,41.0,132523.0,very_large,5.0,10,9,0,8,7.999999999999999,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Rohan Mehta,M003
+Aarti Dutta,STU166,4.6,5.0,74.0,132866.0,very_large,5.0,10,4,8,8,7.7,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Ananya Gupta,M004
+Amit Nair,STU311,9.3,6.0,57.0,115543.0,very_large,5.0,10,7,8,0,7.8,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Kunal Verma,M005
+Pooja Mehta,STU264,4.8,0.0,59.0,128137.0,very_large,5.0,10,7,0,8,7.3999999999999995,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Priya Nair,M006
+Suresh Singh,STU402,7.0,5.0,61.0,143355.0,very_large,5.0,10,7,8,4,8.2,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Vikram Singh,M007
+Ayesha Das,STU169,8.7,2.0,59.0,119080.0,very_large,5.0,10,7,6,0,7.5,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Sanya Khanna,M008
+Divya Saxena,STU062,6.1,1.0,42.0,124539.0,very_large,5.0,10,9,2,4,7.8999999999999995,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Aditya Rao,M009
+Sanya Saxena,STU405,7.3,3.0,71.0,104268.0,very_large,5.0,10,4,8,2,7.1000000000000005,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Meera Desai,M010
+Kunal Choudhary,STU060,4.8,0.0,65.0,100305.0,very_large,5.0,10,7,0,8,7.3999999999999995,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Rahul Kapoor,M011
+Shreya Saxena,STU142,8.6,2.0,45.0,104717.0,very_large,5.0,10,9,6,0,8.1,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Nikita Iyer,M012
+Tanya Chopra,STU261,4.2,4.0,60.0,97196.0,large,4.0,8,7,8,8,7.7,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Arjun Malhotra,M013
+Ritika Patel,STU259,3.4,4.0,41.0,95507.0,large,4.0,8,9,8,8,8.3,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Simran Kaur,M014
+Gaurav Khanna,STU338,5.1,4.0,71.0,101730.0,very_large,5.0,10,4,8,6,7.5,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Dev Patel,M015
+Tanya Trivedi,STU335,3.1,0.0,53.0,113961.0,very_large,5.0,10,7,0,8,7.3999999999999995,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Pooja Menon,M016
+Kunal Bose,STU053,6.0,5.0,64.0,141367.0,very_large,5.0,10,7,8,6,8.4,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Manish Joshi,M017
+Suresh Patel,STU418,4.4,3.0,36.0,143842.0,very_large,5.0,10,9,8,8,9.2,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Neha Choudhary,M018
+Aarav Menon,STU420,8.2,6.0,50.0,105244.0,very_large,5.0,10,7,8,0,7.8,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Siddharth Jain,M019
+Kabir Menon,STU100,3.9,6.0,71.0,102034.0,very_large,5.0,10,4,8,8,7.7,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Tanya Bhatia,M020
+Sanya Reddy,STU348,6.3,6.0,36.0,80394.0,large,4.0,8,9,8,4,7.9,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Aarav Sharma,M001
+Aarav Kulkarni,STU140,4.8,3.0,60.0,142921.0,very_large,5.0,10,7,8,8,8.6,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Isha Patel,M002
+Ashwin Agarwal,STU107,6.9,1.0,61.0,143733.0,very_large,5.0,10,7,2,4,7.3,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Rohan Mehta,M003
+Maya Sharma,STU386,7.2,6.0,56.0,140738.0,very_large,5.0,10,7,8,2,8.0,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Ananya Gupta,M004
+Nikhil Khanna,STU360,7.6,4.0,70.0,114012.0,very_large,5.0,10,4,8,2,7.1000000000000005,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Kunal Verma,M005
+Maya Trivedi,STU363,3.7,0.0,65.0,101265.0,very_large,5.0,10,7,0,8,7.3999999999999995,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Priya Nair,M006
+Kabir Banerjee,STU094,8.3,3.0,50.0,136378.0,very_large,5.0,10,7,8,0,7.8,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Vikram Singh,M007
+Tanya Gupta,STU093,4.5,5.0,51.0,115658.0,very_large,5.0,10,7,8,8,8.6,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Sanya Khanna,M008
+Ishita Dutta,STU365,4.1,6.0,69.0,146760.0,very_large,5.0,10,4,8,8,7.7,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Aditya Rao,M009
+Kabir Reddy,STU091,3.4,1.0,52.0,111932.0,very_large,5.0,10,7,2,8,7.699999999999999,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Meera Desai,M010
+Maya Kulkarni,STU368,4.8,1.0,61.0,142228.0,very_large,5.0,10,7,2,8,7.699999999999999,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Rahul Kapoor,M011
+Arjun Rao,STU207,4.0,5.0,48.0,117138.0,very_large,5.0,10,9,8,8,9.2,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Nikita Iyer,M012
+Anjali Banerjee,STU103,8.3,5.0,38.0,109643.0,very_large,5.0,10,9,8,0,8.399999999999999,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Arjun Malhotra,M013
+Alok Joshi,STU154,5.3,6.0,63.0,102589.0,very_large,5.0,10,7,8,6,8.4,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Simran Kaur,M014
+Deepak Singh,STU104,8.9,2.0,37.0,101029.0,very_large,5.0,10,9,6,0,8.1,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Dev Patel,M015
+Priya Kulkarni,STU156,3.7,0.0,47.0,105323.0,very_large,5.0,10,9,0,8,7.999999999999999,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Pooja Menon,M016
+Aarav Trivedi,STU084,3.4,4.0,37.0,103957.0,very_large,5.0,10,9,8,8,9.2,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Manish Joshi,M017
+Aarav Malhotra,STU378,3.8,5.0,54.0,101462.0,very_large,5.0,10,7,8,8,8.6,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Neha Choudhary,M018
+Nisha Patel,STU082,8.2,5.0,48.0,132355.0,very_large,5.0,10,9,8,0,8.399999999999999,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Siddharth Jain,M019
+Aarti Menon,STU279,8.1,5.0,36.0,91408.0,large,4.0,8,9,8,0,7.5,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Tanya Bhatia,M020
+Alok Verma,STU080,5.9,5.0,50.0,137762.0,very_large,5.0,10,7,8,6,8.4,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Aarav Sharma,M001
+Jyoti Das,STU380,9.1,4.0,58.0,123342.0,very_large,5.0,10,7,8,0,7.8,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Isha Patel,M002
+Abhay Kulkarni,STU383,3.3,6.0,67.0,144781.0,very_large,5.0,10,4,8,8,7.7,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Rohan Mehta,M003
+Shreya Pillai,STU388,3.1,5.0,71.0,127433.0,very_large,5.0,10,4,8,8,7.7,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Ananya Gupta,M004
+Rekha Pillai,STU177,5.3,6.0,68.0,127741.0,very_large,5.0,10,4,8,6,7.5,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Kunal Verma,M005
+Priya Sharma,STU422,4.0,6.0,49.0,87723.0,large,4.0,8,9,8,8,8.3,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Priya Nair,M006
+Ashwin Nair,STU287,7.0,5.0,35.0,145570.0,very_large,5.0,10,9,8,4,8.799999999999999,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Vikram Singh,M007
+Shreya Banerjee,STU201,5.7,5.0,48.0,86238.0,large,4.0,8,9,8,6,8.1,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Sanya Khanna,M008
+Meera Ganguly,STU467,4.1,6.0,37.0,63158.0,medium,3.0,6,9,8,8,7.4,High Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Aditya Rao,M009
+Rohan Joshi,STU046,5.2,6.0,45.0,127180.0,very_large,5.0,10,9,8,6,8.999999999999998,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Meera Desai,M010
+Deepak Joshi,STU191,4.9,4.0,62.0,91757.0,large,4.0,8,7,8,8,7.7,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Rahul Kapoor,M011
+Nikhil Bose,STU021,5.5,2.0,37.0,109401.0,very_large,5.0,10,9,6,6,8.7,High Risk,Seek financial aid/scholarships; Create a structured study plan; Address attendance issues and underlying reasons for absenteeism; Consider professional help for stress management.,Urgent: Connect with financial aid office for grants/emergency funds.,Nikita Iyer,M012
+Ravi Kapoor,STU474,7.8,1.0,38.0,110083.0,very_large,5.0,10,9,2,2,7.699999999999999,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Arjun Malhotra,M013
+Ravi Bhat,STU495,8.1,2.0,45.0,129344.0,very_large,5.0,10,9,6,0,8.1,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Simran Kaur,M014
+Aarav Mehta,STU006,8.9,3.0,38.0,128801.0,very_large,5.0,10,9,8,0,8.399999999999999,High Risk,Seek immediate financial aid/scholarship assistance; explore academic support services; address internal and attendance risks through intensive counseling and support groups.,Urgent: Connect with financial aid office for grants/emergency funds.,Dev Patel,M015
+Kabir Kulkarni,STU211,9.2,2.0,55.0,127454.0,very_large,5.0,10,7,6,0,7.5,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Pooja Menon,M016
+Dev Reddy,STU308,5.0,2.0,50.0,136854.0,very_large,5.0,10,7,6,6,8.1,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Manish Joshi,M017
+Sahil Dutta,STU317,3.4,1.0,52.0,105146.0,very_large,5.0,10,7,2,8,7.699999999999999,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Neha Choudhary,M018
+Suresh Iyer,STU322,8.1,2.0,63.0,100448.0,very_large,5.0,10,7,6,0,7.5,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Siddharth Jain,M019
+Divya Sharma,STU218,6.1,3.0,62.0,99740.0,large,4.0,8,7,8,4,7.300000000000001,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Tanya Bhatia,M020
+Ananya Khanna,STU014,8.6,1.0,45.0,128149.0,very_large,5.0,10,9,2,0,7.499999999999999,High Risk,Secure immediate financial assistance; utilize academic support services; develop attendance improvement strategies; address internal risk factors through counseling.,Urgent: Connect with financial aid office for grants/emergency funds.,Aarav Sharma,M001
+Nisha Desai,STU216,6.3,2.0,37.0,112257.0,very_large,5.0,10,9,6,4,8.5,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Isha Patel,M002
+Kabir Bhat,STU198,4.3,3.0,61.0,121583.0,very_large,5.0,10,7,8,8,8.6,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Rohan Mehta,M003
+Nisha Trivedi,STU487,8.8,5.0,64.0,145007.0,very_large,5.0,10,7,8,0,7.8,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Ananya Gupta,M004
+Tanvi Banerjee,STU488,8.2,5.0,35.0,118558.0,very_large,5.0,10,9,8,0,8.399999999999999,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Kunal Verma,M005
+Kunal Banerjee,STU126,5.0,5.0,54.0,97199.0,large,4.0,8,7,8,6,7.5,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Priya Nair,M006
+Gaurav Agarwal,STU233,8.5,3.0,60.0,124071.0,very_large,5.0,10,7,8,0,7.8,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Vikram Singh,M007
+Sahil Trivedi,STU329,6.9,0.0,36.0,117486.0,very_large,5.0,10,9,0,4,7.6,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Sanya Khanna,M008
+Rohan Mehta,STU443,4.2,5.0,40.0,80619.0,large,4.0,8,9,8,8,8.3,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Aditya Rao,M009
+Divya Banerjee,STU430,5.0,6.0,60.0,109107.0,very_large,5.0,10,7,8,6,8.4,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Meera Desai,M010
+Dev Menon,STU431,5.4,2.0,73.0,147170.0,very_large,5.0,10,4,6,6,7.199999999999999,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Rahul Kapoor,M011
+Raj Patel,STU432,7.0,3.0,46.0,125008.0,very_large,5.0,10,9,8,4,8.799999999999999,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Nikita Iyer,M012
+Meera Malhotra,STU332,6.3,3.0,58.0,89850.0,large,4.0,8,7,8,4,7.300000000000001,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Arjun Malhotra,M013
+Gaurav Joshi,STU248,3.0,3.0,68.0,138296.0,very_large,5.0,10,4,8,8,7.7,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Simran Kaur,M014
+Sneha Khanna,STU181,7.0,5.0,48.0,128039.0,very_large,5.0,10,9,8,4,8.799999999999999,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Dev Patel,M015
+Arjun Nair,STU182,8.0,2.0,56.0,149048.0,very_large,5.0,10,7,6,2,7.7,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Pooja Menon,M016
+Rekha Banerjee,STU002,6.2,3.0,35.0,82501.0,large,4.0,8,9,8,4,7.9,High Risk,Prioritize financial stability through part-time work or scholarships; address internal and attendance issues through counseling and proactive strategies; seek academic support to improve CGPA.,Urgent: Connect with financial aid office for grants/emergency funds.,Manish Joshi,M017
+Siddharth Pillai,STU245,3.5,5.0,43.0,61594.0,medium,3.0,6,9,8,8,7.4,High Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Neha Choudhary,M018
+Kabir Ganguly,STU490,3.3,6.0,41.0,110738.0,very_large,5.0,10,9,8,8,9.2,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Siddharth Jain,M019
+Harsh Patel,STU445,9.4,5.0,55.0,140977.0,very_large,5.0,10,7,8,0,7.8,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Tanya Bhatia,M020
+Simran Mehta,STU184,3.3,6.0,64.0,130350.0,very_large,5.0,10,7,8,8,8.6,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Aarav Sharma,M001
+Ayesha Choudhary,STU120,4.4,6.0,67.0,119434.0,very_large,5.0,10,4,8,8,7.7,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Isha Patel,M002
+Sahil Das,STU449,9.1,0.0,38.0,125460.0,very_large,5.0,10,9,0,0,7.199999999999999,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Rohan Mehta,M003
+Abhay Reddy,STU032,4.2,5.0,36.0,147855.0,very_large,5.0,10,9,8,8,9.2,High Risk,Immediately seek financial aid/scholarships; Develop a detailed study plan;  Address attendance and underlying internal issues; consider professional help for stress management.,Urgent: Connect with financial aid office for grants/emergency funds.,Ananya Gupta,M004
+Abhay Bhat,STU031,3.2,5.0,53.0,126784.0,very_large,5.0,10,7,8,8,8.6,High Risk,Prioritize securing financial aid and scholarships; Create a rigorous study schedule with dedicated time for each subject;  Address attendance issues and underlying causes for absenteeism; seek professional help for internal issues.,Urgent: Connect with financial aid office for grants/emergency funds.,Kunal Verma,M005
+Harsh Singh,STU121,3.5,3.0,49.0,60355.0,medium,3.0,6,9,8,8,7.4,High Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Priya Nair,M006
+Kabir Agarwal,STU029,3.7,2.0,40.0,140366.0,very_large,5.0,10,9,6,8,8.9,High Risk,Secure financial aid/scholarships; Improve time management and study skills;  Address attendance and internal challenges; explore stress management strategies.,Urgent: Connect with financial aid office for grants/emergency funds.,Vikram Singh,M007
+Tanya Singh,STU028,4.1,5.0,56.0,140884.0,very_large,5.0,10,7,8,8,8.6,High Risk,Secure financial aid/scholarships immediately; Develop a structured study plan focusing on time management; Prioritize attendance and address underlying causes of absenteeism. Seek professional help for managing stress.,Urgent: Connect with financial aid office for grants/emergency funds.,Sanya Khanna,M008
+Anjali Patel,STU321,8.5,4.0,37.0,115364.0,very_large,5.0,10,9,8,0,8.399999999999999,High Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Aditya Rao,M009
+Varun Mishra,STU288,9.2,6.0,97.0,82142.0,large,4.0,8,0,8,0,4.8,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Meera Desai,M010
+Sanya Malhotra,STU303,3.5,4.0,36.0,0.0,none,0.0,0,9,8,8,4.699999999999999,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Rahul Kapoor,M011
+Anjali Nair,STU292,6.3,5.0,63.0,27285.0,very_small,1.0,1,7,8,4,4.15,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Nikita Iyer,M012
+Neha Kapoor,STU293,3.7,0.0,82.0,128879.0,very_large,5.0,10,0,0,8,5.3,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Arjun Malhotra,M013
+Ritu Chopra,STU295,8.2,2.0,56.0,42527.0,small,2.0,3,7,6,0,4.35,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Simran Kaur,M014
+Sanya Mishra,STU297,7.7,4.0,40.0,68240.0,medium,3.0,6,9,8,2,6.800000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Dev Patel,M015
+Suresh Trivedi,STU306,7.9,5.0,37.0,0.0,none,0.0,0,9,8,2,4.1,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Pooja Menon,M016
+Aarav Bhat,STU300,3.1,1.0,62.0,97431.0,large,4.0,8,7,2,8,6.8,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Manish Joshi,M017
+Alok Saxena,STU310,5.9,3.0,70.0,52481.0,small,2.0,3,4,8,6,4.35,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Neha Choudhary,M018
+Ayesha Desai,STU307,8.7,3.0,71.0,62227.0,medium,3.0,6,4,8,0,5.1000000000000005,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Siddharth Jain,M019
+Ravi Sharma,STU001,6.0,5.0,63.0,31868.0,very_small,1.0,1,7,8,6,4.35,Medium Risk,Seek academic advising for improved CGPA; address underlying issues contributing to internal and attendance risks; explore time management workshops.,No immediate action needed.,Tanya Bhatia,M020
+Divya Trivedi,STU285,5.7,1.0,59.0,60094.0,medium,3.0,6,7,2,6,5.700000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Aarav Sharma,M001
+Priya Bhat,STU212,9.4,0.0,73.0,89377.0,large,4.0,8,4,0,0,4.8,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Isha Patel,M002
+Sneha Kapoor,STU214,5.5,2.0,71.0,94130.0,large,4.0,8,4,6,6,6.299999999999999,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Rohan Mehta,M003
+Harsh Chopra,STU220,4.5,2.0,89.0,67544.0,medium,3.0,6,0,6,8,4.4,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Ananya Gupta,M004
+Jyoti Bose,STU223,3.8,0.0,83.0,98575.0,large,4.0,8,0,0,8,4.4,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Kunal Verma,M005
+Raj Rao,STU226,4.9,1.0,63.0,91081.0,large,4.0,8,7,2,8,6.8,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Priya Nair,M006
+Dev Dutta,STU228,3.1,1.0,49.0,43819.0,small,2.0,3,9,2,8,5.1499999999999995,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Vikram Singh,M007
+Maya Choudhary,STU232,3.6,6.0,39.0,0.0,none,0.0,0,9,8,8,4.699999999999999,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Sanya Khanna,M008
+Priya Kapoor,STU235,3.5,5.0,90.0,109632.0,very_large,5.0,10,0,8,8,6.5,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Aditya Rao,M009
+Ayesha Khanna,STU236,4.6,4.0,65.0,16742.0,very_small,1.0,1,7,8,8,4.55,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Meera Desai,M010
+Ayesha Dutta,STU239,3.8,6.0,48.0,38763.0,very_small,1.0,1,9,8,8,5.1499999999999995,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Rahul Kapoor,M011
+Arjun Saxena,STU242,6.4,3.0,64.0,63574.0,medium,3.0,6,7,8,4,6.400000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Nikita Iyer,M012
+Varun Kapoor,STU249,8.2,0.0,79.0,133332.0,very_large,5.0,10,0,0,0,4.5,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Arjun Malhotra,M013
+Priya Dutta,STU251,7.8,1.0,79.0,124697.0,very_large,5.0,10,0,2,2,5.0,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Simran Kaur,M014
+Ananya Verma,STU252,8.5,2.0,82.0,124929.0,very_large,5.0,10,0,6,0,5.4,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Dev Patel,M015
+Raj Gupta,STU253,6.6,3.0,66.0,83146.0,large,4.0,8,4,8,4,6.4,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Pooja Menon,M016
+Siddharth Singh,STU254,6.0,4.0,90.0,74672.0,medium,3.0,6,0,8,6,4.5,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Manish Joshi,M017
+Nikhil Reddy,STU256,9.1,1.0,67.0,68958.0,medium,3.0,6,4,2,0,4.2,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Neha Choudhary,M018
+Manav Gupta,STU263,7.6,1.0,91.0,102645.0,very_large,5.0,10,0,2,2,5.0,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Siddharth Jain,M019
+Tanya Rao,STU266,5.3,3.0,84.0,122608.0,very_large,5.0,10,0,8,6,6.300000000000001,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Tanya Bhatia,M020
+Pooja Nair,STU268,7.2,1.0,39.0,76676.0,medium,3.0,6,9,2,2,5.9,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Aarav Sharma,M001
+Rekha Menon,STU269,5.5,2.0,38.0,35735.0,very_small,1.0,1,9,6,6,4.65,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Isha Patel,M002
+Gaurav Kapoor,STU270,9.3,5.0,58.0,69646.0,medium,3.0,6,7,8,0,6.000000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Rohan Mehta,M003
+Manav Banerjee,STU271,4.3,6.0,56.0,33314.0,very_small,1.0,1,7,8,8,4.55,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Ananya Gupta,M004
+Aarav Khanna,STU272,8.6,5.0,46.0,26726.0,very_small,1.0,1,9,8,0,4.35,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Kunal Verma,M005
+Ananya Iyer,STU277,3.7,1.0,92.0,80574.0,large,4.0,8,0,2,8,4.7,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Priya Nair,M006
+Simran Chopra,STU278,5.7,2.0,49.0,65166.0,medium,3.0,6,9,6,6,6.9,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Vikram Singh,M007
+Abhay Patel,STU282,6.5,6.0,77.0,64878.0,medium,3.0,6,0,8,4,4.300000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Sanya Khanna,M008
+Raj Agarwal,STU283,4.1,1.0,59.0,42989.0,small,2.0,3,7,2,8,4.55,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Aditya Rao,M009
+Rohan Nair,STU284,8.3,6.0,38.0,64753.0,medium,3.0,6,9,8,0,6.6000000000000005,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Meera Desai,M010
+Divya Desai,STU286,8.7,2.0,40.0,72934.0,medium,3.0,6,9,6,0,6.300000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Rahul Kapoor,M011
+Ananya Reddy,STU312,6.2,6.0,78.0,91468.0,large,4.0,8,0,8,4,5.2,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Nikita Iyer,M012
+Aarav Reddy,STU354,5.5,4.0,44.0,27136.0,very_small,1.0,1,9,8,6,4.949999999999999,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Arjun Malhotra,M013
+Alok Choudhary,STU316,8.4,1.0,37.0,85725.0,large,4.0,8,9,2,0,6.6,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Simran Kaur,M014
+Amit Rao,STU447,4.7,0.0,36.0,53969.0,small,2.0,3,9,0,8,4.85,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Dev Patel,M015
+Neha Bose,STU442,6.8,1.0,100.0,93309.0,large,4.0,8,0,2,4,4.3,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Pooja Menon,M016
+Rekha Chopra,STU440,9.4,0.0,69.0,110635.0,very_large,5.0,10,4,0,0,5.7,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Manish Joshi,M017
+Ayesha Saxena,STU439,8.2,0.0,46.0,99070.0,large,4.0,8,9,0,0,6.3,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Neha Choudhary,M018
+Sameer Reddy,STU438,7.5,0.0,85.0,123459.0,very_large,5.0,10,0,0,2,4.7,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Siddharth Jain,M019
+Pooja Chopra,STU433,8.7,5.0,69.0,104689.0,very_large,5.0,10,4,8,0,6.9,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Tanya Bhatia,M020
+Siddharth Saxena,STU448,7.6,3.0,35.0,0.0,none,0.0,0,9,8,2,4.1,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Aarav Sharma,M001
+Sameer Patel,STU428,6.9,6.0,93.0,70077.0,medium,3.0,6,0,8,4,4.300000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Isha Patel,M002
+Ritu Malhotra,STU425,7.3,2.0,47.0,5769.0,very_small,1.0,1,9,6,2,4.25,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Rohan Mehta,M003
+Abhay Mishra,STU416,6.5,5.0,43.0,10911.0,very_small,1.0,1,9,8,4,4.75,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Ananya Gupta,M004
+Anjali Dutta,STU415,3.0,6.0,90.0,83929.0,large,4.0,8,0,8,8,5.6,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Kunal Verma,M005
+Gaurav Singh,STU411,9.4,2.0,89.0,105317.0,very_large,5.0,10,0,6,0,5.4,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Priya Nair,M006
+Tanya Nair,STU410,3.5,5.0,35.0,0.0,none,0.0,0,9,8,8,4.699999999999999,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Vikram Singh,M007
+Siddharth Mishra,STU409,5.1,5.0,52.0,31934.0,very_small,1.0,1,7,8,6,4.35,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Sanya Khanna,M008
+Ritika Kulkarni,STU426,3.7,5.0,71.0,83126.0,large,4.0,8,4,8,8,6.8,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Aditya Rao,M009
+Amit Mehta,STU406,3.0,1.0,44.0,48470.0,small,2.0,3,9,2,8,5.1499999999999995,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Meera Desai,M010
+Suresh Dutta,STU450,4.0,6.0,45.0,45395.0,small,2.0,3,9,8,8,6.05,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Rahul Kapoor,M011
+Aarti Mehta,STU455,7.6,5.0,38.0,0.0,none,0.0,0,9,8,2,4.1,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Nikita Iyer,M012
+Sneha Pillai,STU498,8.9,6.0,73.0,86238.0,large,4.0,8,4,8,0,6.0,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Arjun Malhotra,M013
+Tanvi Saxena,STU497,3.2,2.0,64.0,48176.0,small,2.0,3,7,6,8,5.1499999999999995,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Simran Kaur,M014
+Kiran Ganguly,STU494,3.8,0.0,67.0,113492.0,very_large,5.0,10,4,0,8,6.5,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Dev Patel,M015
+Sneha Verma,STU489,3.9,6.0,97.0,124861.0,very_large,5.0,10,0,8,8,6.5,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Pooja Menon,M016
+Kunal Nair,STU486,8.3,2.0,43.0,75923.0,medium,3.0,6,9,6,0,6.300000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Manish Joshi,M017
+Harsh Menon,STU485,5.3,2.0,74.0,78402.0,medium,3.0,6,4,6,6,5.4,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Neha Choudhary,M018
+Rekha Verma,STU454,7.7,5.0,47.0,78755.0,medium,3.0,6,9,8,2,6.800000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Siddharth Jain,M019
+Arjun Patel,STU482,5.0,0.0,82.0,98865.0,large,4.0,8,0,0,6,4.2,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Tanya Bhatia,M020
+Sanya Mehta,STU480,3.2,4.0,75.0,92829.0,large,4.0,8,4,8,8,6.8,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Aarav Sharma,M001
+Rahul Mehta,STU477,8.5,2.0,61.0,68359.0,medium,3.0,6,7,6,0,5.700000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Isha Patel,M002
+Siddharth Malhotra,STU476,5.0,1.0,41.0,59684.0,small,2.0,3,9,2,6,4.949999999999999,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Rohan Mehta,M003
+Deepak Menon,STU469,7.1,6.0,38.0,0.0,none,0.0,0,9,8,2,4.1,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Ananya Gupta,M004
+Divya Nair,STU468,5.3,4.0,50.0,11813.0,very_small,1.0,1,7,8,6,4.35,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Kunal Verma,M005
+Payal Joshi,STU460,8.1,1.0,60.0,75528.0,medium,3.0,6,7,2,0,5.1000000000000005,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Priya Nair,M006
+Suresh Bhat,STU481,3.8,5.0,35.0,0.0,none,0.0,0,9,8,8,4.699999999999999,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Vikram Singh,M007
+Priya Desai,STU314,9.3,0.0,52.0,62331.0,medium,3.0,6,7,0,0,4.800000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Sanya Khanna,M008
+Aarav Choudhary,STU404,4.0,2.0,86.0,133423.0,very_large,5.0,10,0,6,8,6.2,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Aditya Rao,M009
+Maya Verma,STU400,8.8,1.0,65.0,127173.0,very_large,5.0,10,7,2,0,6.8999999999999995,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Meera Desai,M010
+Rahul Ganguly,STU356,8.5,5.0,79.0,122443.0,very_large,5.0,10,0,8,0,5.7,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Rahul Kapoor,M011
+Aarav Ganguly,STU353,3.8,1.0,58.0,82475.0,large,4.0,8,7,2,8,6.8,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Nikita Iyer,M012
+Ravi Kulkarni,STU350,7.9,3.0,77.0,96365.0,large,4.0,8,0,8,2,5.0,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Arjun Malhotra,M013
+Manav Joshi,STU346,7.1,3.0,55.0,68435.0,medium,3.0,6,7,8,2,6.200000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Simran Kaur,M014
+Ravi Mishra,STU344,4.6,6.0,37.0,1644.0,very_small,1.0,1,9,8,8,5.1499999999999995,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Dev Patel,M015
+Jyoti Kulkarni,STU342,8.4,4.0,92.0,143180.0,very_large,5.0,10,0,8,0,5.7,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Pooja Menon,M016
+Maya Kapoor,STU358,3.6,6.0,57.0,75122.0,medium,3.0,6,7,8,8,6.800000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Manish Joshi,M017
+Simran Desai,STU339,3.9,5.0,92.0,127158.0,very_large,5.0,10,0,8,8,6.5,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Neha Choudhary,M018
+Ashwin Ganguly,STU334,3.2,1.0,57.0,89423.0,large,4.0,8,7,2,8,6.8,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Siddharth Jain,M019
+Raj Desai,STU333,3.1,2.0,38.0,0.0,none,0.0,0,9,6,8,4.3999999999999995,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Tanya Bhatia,M020
+Rohan Bose,STU330,7.5,6.0,77.0,94889.0,large,4.0,8,0,8,2,5.0,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Aarav Sharma,M001
+Ishita Iyer,STU328,9.2,3.0,57.0,62323.0,medium,3.0,6,7,8,0,6.000000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Isha Patel,M002
+Sneha Ganguly,STU327,4.3,3.0,60.0,10679.0,very_small,1.0,1,7,8,8,4.55,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Rohan Mehta,M003
+Pooja Desai,STU326,7.1,1.0,40.0,92295.0,large,4.0,8,9,2,2,6.8,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Ananya Gupta,M004
+Divya Kapoor,STU336,4.7,5.0,92.0,68239.0,medium,3.0,6,0,8,8,4.7,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Kunal Verma,M005
+Rohan Rao,STU401,8.2,0.0,84.0,121046.0,very_large,5.0,10,0,0,0,4.5,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Priya Nair,M006
+Manav Kapoor,STU359,3.7,6.0,47.0,30176.0,very_small,1.0,1,9,8,8,5.1499999999999995,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Vikram Singh,M007
+Vivek Verma,STU370,8.5,4.0,59.0,98801.0,large,4.0,8,7,8,0,6.9,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Sanya Khanna,M008
+Deepak Desai,STU398,3.1,2.0,39.0,0.0,none,0.0,0,9,6,8,4.3999999999999995,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Aditya Rao,M009
+Divya Singh,STU396,3.9,1.0,93.0,102301.0,very_large,5.0,10,0,2,8,5.6,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Meera Desai,M010
+Rekha Dutta,STU394,3.1,2.0,75.0,48790.0,small,2.0,3,4,6,8,4.25,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Rahul Kapoor,M011
+Nikhil Trivedi,STU393,8.6,6.0,68.0,71716.0,medium,3.0,6,4,8,0,5.1000000000000005,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Nikita Iyer,M012
+Aarti Joshi,STU392,6.3,6.0,43.0,0.0,none,0.0,0,9,8,4,4.3,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Arjun Malhotra,M013
+Ritu Pillai,STU391,5.6,3.0,63.0,6018.0,very_small,1.0,1,7,8,6,4.35,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Simran Kaur,M014
+Rahul Desai,STU361,4.8,6.0,65.0,59020.0,small,2.0,3,7,8,8,5.45,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Dev Patel,M015
+Jyoti Gupta,STU389,8.4,3.0,70.0,133357.0,very_large,5.0,10,4,8,0,6.9,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Pooja Menon,M016
+Vikas Bose,STU381,7.2,4.0,37.0,0.0,none,0.0,0,9,8,2,4.1,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Manish Joshi,M017
+Sanya Menon,STU379,4.0,3.0,86.0,75938.0,medium,3.0,6,0,8,8,4.7,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Neha Choudhary,M018
+Payal Desai,STU376,4.4,5.0,71.0,83972.0,large,4.0,8,4,8,8,6.8,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Siddharth Jain,M019
+Shreya Khanna,STU375,4.8,1.0,71.0,67264.0,medium,3.0,6,4,2,8,5.0,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Tanya Bhatia,M020
+Varun Chopra,STU374,6.7,4.0,99.0,92738.0,large,4.0,8,0,8,4,5.2,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Aarav Sharma,M001
+Alok Gupta,STU372,4.1,1.0,88.0,148963.0,very_large,5.0,10,0,2,8,5.6,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Isha Patel,M002
+Maya Ganguly,STU382,7.0,0.0,52.0,84242.0,large,4.0,8,7,0,4,6.1000000000000005,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Rohan Mehta,M003
+Shreya Menon,STU205,9.2,1.0,43.0,66430.0,medium,3.0,6,9,2,0,5.7,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Ananya Gupta,M004
+Divya Bose,STU500,7.9,4.0,44.0,65826.0,medium,3.0,6,9,8,2,6.800000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Kunal Verma,M005
+Kabir Verma,STU105,8.5,1.0,91.0,103270.0,very_large,5.0,10,0,2,0,4.8,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Priya Nair,M006
+Ritu Singh,STU131,6.3,3.0,48.0,53565.0,small,2.0,3,9,8,4,5.65,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Vikram Singh,M007
+Alok Dutta,STU057,7.4,0.0,49.0,75266.0,medium,3.0,6,9,0,2,5.6000000000000005,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Sanya Khanna,M008
+Ishita Das,STU132,6.5,3.0,57.0,24146.0,very_small,1.0,1,7,8,4,4.15,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Aditya Rao,M009
+Alok Das,STU055,6.0,3.0,53.0,40897.0,small,2.0,3,7,8,6,5.25,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Meera Desai,M010
+Sameer Joshi,STU054,3.2,6.0,50.0,76875.0,medium,3.0,6,7,8,8,6.800000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Rahul Kapoor,M011
+Rohan Das,STU139,8.3,1.0,66.0,139114.0,very_large,5.0,10,4,2,0,6.0,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Nikita Iyer,M012
+Ritu Verma,STU141,9.0,5.0,78.0,85685.0,large,4.0,8,0,8,0,4.8,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Arjun Malhotra,M013
+Maya Banerjee,STU143,9.3,5.0,87.0,115229.0,very_large,5.0,10,0,8,0,5.7,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Simran Kaur,M014
+Ravi Chopra,STU045,7.8,3.0,86.0,89181.0,large,4.0,8,0,8,2,5.0,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Dev Patel,M015
+Raj Choudhary,STU044,3.8,3.0,80.0,116296.0,very_large,5.0,10,0,8,8,6.5,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Pooja Menon,M016
+Meera Pillai,STU043,4.8,5.0,54.0,35142.0,very_small,1.0,1,7,8,8,4.55,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Manish Joshi,M017
+Abhay Saxena,STU041,6.4,6.0,44.0,0.0,none,0.0,0,9,8,4,4.3,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Neha Choudhary,M018
+Ritika Choudhary,STU158,7.8,4.0,36.0,0.0,none,0.0,0,9,8,2,4.1,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Siddharth Jain,M019
+Harsh Bhat,STU038,7.6,3.0,43.0,0.0,none,0.0,0,9,8,2,4.1,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Tanya Bhatia,M020
+Maya Bhat,STU160,5.8,6.0,39.0,0.0,none,0.0,0,9,8,6,4.5,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Aarav Sharma,M001
+Nisha Joshi,STU162,7.5,0.0,65.0,129367.0,very_large,5.0,10,7,0,2,6.8,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Isha Patel,M002
+Ritu Gupta,STU163,3.5,4.0,61.0,72562.0,medium,3.0,6,7,8,8,6.800000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Rohan Mehta,M003
+Ravi Rao,STU164,6.9,2.0,71.0,106242.0,very_large,5.0,10,4,6,4,7.0,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Ananya Gupta,M004
+Aarav Pillai,STU165,6.1,1.0,49.0,47834.0,small,2.0,3,9,2,4,4.75,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Kunal Verma,M005
+Rahul Dutta,STU033,5.6,2.0,37.0,70491.0,medium,3.0,6,9,6,6,6.9,Medium Risk,Develop a structured study plan; Address attendance issues and identify underlying causes; Seek counseling or support to address internal challenges; explore financial aid options.,Action: Discuss fee installment plans or work-study options.,Priya Nair,M006
+Rekha Khanna,STU168,4.4,6.0,98.0,130280.0,very_large,5.0,10,0,8,8,6.5,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Vikram Singh,M007
+Kabir Mishra,STU059,6.2,5.0,79.0,60981.0,medium,3.0,6,0,8,4,4.300000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Sanya Khanna,M008
+Neha Nair,STU030,6.1,3.0,49.0,0.0,none,0.0,0,9,8,4,4.3,Medium Risk,Develop coping mechanisms for stress; Address attendance issues and underlying causes for absenteeism;  Maintain consistent study habits.,No immediate action needed.,Aditya Rao,M009
+Aarti Iyer,STU129,8.8,0.0,69.0,81785.0,large,4.0,8,4,0,0,4.8,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Meera Desai,M010
+Nisha Mehta,STU063,6.1,4.0,37.0,0.0,none,0.0,0,9,8,4,4.3,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Rahul Kapoor,M011
+Ritika Bhat,STU088,4.7,6.0,86.0,111497.0,very_large,5.0,10,0,8,8,6.5,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Nikita Iyer,M012
+Vivek Das,STU092,4.4,5.0,40.0,0.0,none,0.0,0,9,8,8,4.699999999999999,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Arjun Malhotra,M013
+Siddharth Choudhary,STU095,8.0,6.0,71.0,66518.0,medium,3.0,6,4,8,2,5.300000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Simran Kaur,M014
+Shreya Trivedi,STU096,3.5,1.0,51.0,57197.0,small,2.0,3,7,2,8,4.55,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Dev Patel,M015
+Rahul Iyer,STU097,5.9,4.0,92.0,124017.0,very_large,5.0,10,0,8,6,6.300000000000001,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Pooja Menon,M016
+Tanya Kulkarni,STU099,6.2,4.0,62.0,67538.0,medium,3.0,6,7,8,4,6.400000000000001,Medium Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Manish Joshi,M017
+Vikas Iyer,STU083,4.8,1.0,69.0,112670.0,very_large,5.0,10,4,2,8,6.8,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Neha Choudhary,M018
+Sneha Dutta,STU081,4.4,3.0,91.0,93658.0,large,4.0,8,0,8,8,5.6,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Siddharth Jain,M019
+Aarti Rao,STU078,7.0,6.0,43.0,34563.0,very_small,1.0,1,9,8,4,4.75,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Tanya Bhatia,M020
+Sanya Patel,STU077,4.0,1.0,49.0,53941.0,small,2.0,3,9,2,8,5.1499999999999995,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Aarav Sharma,M001
+Jyoti Pillai,STU076,7.9,4.0,48.0,0.0,none,0.0,0,9,8,2,4.1,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Isha Patel,M002
+Ishita Saxena,STU075,4.7,5.0,56.0,46474.0,small,2.0,3,7,8,8,5.45,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Rohan Mehta,M003
+Neha Sharma,STU112,4.1,5.0,85.0,148699.0,very_large,5.0,10,0,8,8,6.5,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Ananya Gupta,M004
+Aarti Pillai,STU113,5.3,4.0,98.0,111394.0,very_large,5.0,10,0,8,6,6.300000000000001,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Kunal Verma,M005
+Rekha Choudhary,STU116,6.9,5.0,87.0,113419.0,very_large,5.0,10,0,8,4,6.1000000000000005,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Priya Nair,M006
+Kunal Singh,STU067,5.9,2.0,77.0,105480.0,very_large,5.0,10,0,6,6,6.0,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Vikram Singh,M007
+Ishita Menon,STU119,6.6,5.0,65.0,18980.0,very_small,1.0,1,7,8,4,4.15,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Sanya Khanna,M008
+Sneha Mehta,STU122,8.4,6.0,48.0,43131.0,small,2.0,3,9,8,0,5.25,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Aditya Rao,M009
+Ishita Ganguly,STU066,6.3,0.0,64.0,98502.0,large,4.0,8,7,0,4,6.1000000000000005,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Meera Desai,M010
+Pooja Patel,STU125,4.8,4.0,83.0,115979.0,very_large,5.0,10,0,8,8,6.5,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Rahul Kapoor,M011
+Kavya Iyer,STU127,3.1,5.0,47.0,38485.0,very_small,1.0,1,9,8,8,5.1499999999999995,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Nikita Iyer,M012
+Suresh Pillai,STU061,6.0,1.0,44.0,34128.0,very_small,1.0,1,9,2,6,4.05,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Arjun Malhotra,M013
+Dev Khanna,STU171,4.1,2.0,94.0,148650.0,very_large,5.0,10,0,6,8,6.2,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Simran Kaur,M014
+Kunal Das,STU149,8.4,2.0,37.0,10094.0,very_small,1.0,1,9,6,0,4.05,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Dev Patel,M015
+Vivek Kulkarni,STU020,9.1,3.0,38.0,35000.0,very_small,1.0,1,9,8,0,4.35,Medium Risk,Prioritize attendance; Seek immediate help for internal issues (counseling/therapy); Develop coping mechanisms for stress.,No immediate action needed.,Pooja Menon,M016
+Varun Pillai,STU194,3.4,6.0,52.0,35619.0,very_small,1.0,1,7,8,8,4.55,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Manish Joshi,M017
+Kabir Trivedi,STU183,4.9,2.0,44.0,42329.0,small,2.0,3,9,6,8,5.749999999999999,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Neha Choudhary,M018
+Pooja Verma,STU186,3.7,5.0,67.0,98620.0,large,4.0,8,4,8,8,6.8,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Siddharth Jain,M019
+Pooja Saxena,STU015,8.7,0.0,38.0,88391.0,large,4.0,8,9,0,0,6.3,Medium Risk,Prioritize financial stability through part-time jobs or family support; utilize academic resources to improve CGPA; address attendance issues proactively.,Urgent: Connect with financial aid office for grants/emergency funds.,Tanya Bhatia,M020
+Kiran Rao,STU197,6.3,1.0,83.0,101638.0,very_large,5.0,10,0,2,4,5.2,Medium Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Aarav Sharma,M001
+Nikhil Mishra,STU193,5.8,1.0,65.0,50937.0,small,2.0,3,7,2,6,4.35,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Isha Patel,M002
+Deepak Choudhary,STU007,7.5,5.0,89.0,71383.0,medium,3.0,6,0,8,2,4.1000000000000005,Medium Risk,Develop a financial plan; utilize academic resources to bolster CGPA; address internal risk factors through professional counseling.,Action: Discuss fee installment plans or work-study options.,Rohan Mehta,M003
+Meera Nair,STU025,6.2,4.0,92.0,86134.0,large,4.0,8,0,8,4,5.2,Medium Risk,Prioritize financial planning; Develop effective time management techniques; Seek professional help to address internal and academic stressors.,Urgent: Connect with financial aid office for grants/emergency funds.,Ananya Gupta,M004
+Siddharth Nair,STU011,8.4,5.0,85.0,133575.0,very_large,5.0,10,0,8,0,5.7,Medium Risk,Secure financial aid or explore alternative funding; utilize academic support; address internal risk factors through counseling.,Urgent: Connect with financial aid office for grants/emergency funds.,Kunal Verma,M005
+Kavya Reddy,STU175,4.1,6.0,56.0,29973.0,very_small,1.0,1,7,8,8,4.55,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Priya Nair,M006
+Ananya Rao,STU188,4.5,6.0,44.0,0.0,none,0.0,0,9,8,8,4.699999999999999,Medium Risk,ERROR - See terminal for details,No immediate action needed.,Vikram Singh,M007
+Alok Rao,STU004,4.7,2.0,66.0,96226.0,large,4.0,8,4,6,8,6.499999999999999,Medium Risk,Develop a financial plan and explore financial aid options; seek academic support to improve CGPA; address internal risk factors through counseling or stress management techniques.,Urgent: Connect with financial aid office for grants/emergency funds.,Sanya Khanna,M008
+Kavya Menon,STU403,3.6,0.0,98.0,0.0,none,0.0,0,0,0,8,0.8,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aditya Rao,M009
+Arjun Das,STU395,4.6,3.0,99.0,0.0,none,0.0,0,0,8,8,2.0,Low Risk,ERROR - See terminal for details,No immediate action needed.,Meera Desai,M010
+Rekha Rao,STU068,4.2,4.0,100.0,24865.0,very_small,1.0,1,0,8,8,2.45,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rahul Kapoor,M011
+Rohan Agarwal,STU013,4.5,4.0,77.0,0.0,none,0.0,0,0,8,8,2.0,Low Risk,Maintain high academic standards; seek counseling to address internal risk; explore leadership opportunities.,No immediate action needed.,Nikita Iyer,M012
+Divya Agarwal,STU397,3.9,1.0,67.0,0.0,none,0.0,0,4,2,8,2.3,Low Risk,ERROR - See terminal for details,No immediate action needed.,Arjun Malhotra,M013
+Meera Das,STU484,7.7,4.0,79.0,0.0,none,0.0,0,0,8,2,1.4,Low Risk,ERROR - See terminal for details,No immediate action needed.,Simran Kaur,M014
+Nisha Choudhary,STU058,3.3,2.0,82.0,0.0,none,0.0,0,0,6,8,1.7,Low Risk,ERROR - See terminal for details,No immediate action needed.,Dev Patel,M015
+Maya Bose,STU399,6.1,0.0,96.0,91430.0,large,4.0,8,0,0,4,4.0,Low Risk,ERROR - See terminal for details,Urgent: Connect with financial aid office for grants/emergency funds.,Pooja Menon,M016
+Payal Iyer,STU017,8.5,1.0,97.0,0.0,none,0.0,0,0,2,0,0.3,Low Risk,Maintain good health and wellbeing; actively engage with campus resources; explore opportunities for personal and professional development.,No immediate action needed.,Manish Joshi,M017
+Rohan Reddy,STU483,7.5,2.0,69.0,0.0,none,0.0,0,4,6,2,2.3,Low Risk,ERROR - See terminal for details,No immediate action needed.,Neha Choudhary,M018
+Jyoti Verma,STU478,7.1,2.0,61.0,17208.0,very_small,1.0,1,7,6,2,3.6500000000000004,Low Risk,ERROR - See terminal for details,No immediate action needed.,Siddharth Jain,M019
+Priya Singh,STU407,7.4,2.0,82.0,61123.0,medium,3.0,6,0,6,2,3.8000000000000003,Low Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Tanya Bhatia,M020
+Meera Iyer,STU479,3.7,0.0,80.0,57159.0,small,2.0,3,0,0,8,2.1500000000000004,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aarav Sharma,M001
+Manav Ganguly,STU065,3.0,2.0,82.0,0.0,none,0.0,0,0,6,8,1.7,Low Risk,ERROR - See terminal for details,No immediate action needed.,Isha Patel,M002
+Payal Rao,STU018,4.3,0.0,80.0,41898.0,small,2.0,3,0,0,8,2.1500000000000004,Low Risk,Explore scholarship opportunities; Seek academic tutoring; Develop effective study strategies.,No immediate action needed.,Rohan Mehta,M003
+Simran Bhat,STU069,3.8,0.0,40.0,0.0,none,0.0,0,9,0,8,3.5,Low Risk,ERROR - See terminal for details,No immediate action needed.,Ananya Gupta,M004
+Kabir Saxena,STU064,3.1,0.0,89.0,26044.0,very_small,1.0,1,0,0,8,1.25,Low Risk,ERROR - See terminal for details,No immediate action needed.,Kunal Verma,M005
+Vikas Malhotra,STU408,8.6,2.0,86.0,35091.0,very_small,1.0,1,0,6,0,1.3499999999999999,Low Risk,ERROR - See terminal for details,No immediate action needed.,Priya Nair,M006
+Kunal Desai,STU016,6.3,3.0,99.0,0.0,none,0.0,0,0,8,4,1.6,Low Risk,Maintain academic standing; participate in counseling to manage internal risks; explore extracurricular activities for personal growth.,No immediate action needed.,Vikram Singh,M007
+Vivek Malhotra,STU456,7.3,4.0,67.0,18770.0,very_small,1.0,1,4,8,2,3.05,Low Risk,ERROR - See terminal for details,No immediate action needed.,Sanya Khanna,M008
+Sanya Singh,STU070,8.3,4.0,89.0,0.0,none,0.0,0,0,8,0,1.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aditya Rao,M009
+Tanvi Menon,STU003,6.7,0.0,82.0,0.0,none,0.0,0,0,0,4,0.4,Low Risk,Maintain excellent academic performance; continue strong attendance; explore extracurricular activities to enhance the college experience.,No immediate action needed.,Meera Desai,M010
+Ananya Nair,STU373,8.0,1.0,69.0,25184.0,very_small,1.0,1,4,2,2,2.15,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rahul Kapoor,M011
+Alok Kulkarni,STU087,6.8,2.0,62.0,0.0,none,0.0,0,7,6,4,3.4,Low Risk,ERROR - See terminal for details,No immediate action needed.,Nikita Iyer,M012
+Dev Das,STU496,8.5,4.0,36.0,0.0,none,0.0,0,9,8,0,3.8999999999999995,Low Risk,ERROR - See terminal for details,No immediate action needed.,Arjun Malhotra,M013
+Meera Bhat,STU086,8.2,3.0,71.0,50179.0,small,2.0,3,4,8,0,3.75,Low Risk,ERROR - See terminal for details,No immediate action needed.,Simran Kaur,M014
+Payal Saxena,STU005,4.4,2.0,82.0,13150.0,very_small,1.0,1,0,6,8,2.15,Low Risk,Focus on improving CGPA through tutoring or study groups; address internal risk factors through counseling; maintain perfect attendance.,No immediate action needed.,Dev Patel,M015
+Neha Kulkarni,STU085,7.3,2.0,75.0,55656.0,small,2.0,3,4,6,2,3.65,Low Risk,ERROR - See terminal for details,No immediate action needed.,Pooja Menon,M016
+Sameer Ganguly,STU493,8.0,1.0,45.0,0.0,none,0.0,0,9,2,2,3.1999999999999997,Low Risk,ERROR - See terminal for details,No immediate action needed.,Manish Joshi,M017
+Gaurav Bose,STU377,6.0,5.0,70.0,0.0,none,0.0,0,4,8,6,3.0,Low Risk,ERROR - See terminal for details,No immediate action needed.,Neha Choudhary,M018
+Ishita Sharma,STU492,7.1,6.0,75.0,40884.0,small,2.0,3,4,8,2,3.95,Low Risk,ERROR - See terminal for details,No immediate action needed.,Siddharth Jain,M019
+Sneha Choudhary,STU491,7.5,1.0,78.0,10262.0,very_small,1.0,1,0,2,2,0.95,Low Risk,ERROR - See terminal for details,No immediate action needed.,Tanya Bhatia,M020
+Dev Agarwal,STU079,9.0,2.0,92.0,75507.0,medium,3.0,6,0,6,0,3.6,Low Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Aarav Sharma,M001
+Jyoti Saxena,STU008,5.7,2.0,90.0,0.0,none,0.0,0,0,6,6,1.5,Low Risk,Focus on maintaining CGPA; address internal risk factors through self-reflection and stress management techniques; explore opportunities for leadership roles.,No immediate action needed.,Isha Patel,M002
+Ravi Menon,STU009,6.3,5.0,87.0,0.0,none,0.0,0,0,8,4,1.6,Low Risk,Maintain academic standing; address internal risk factors through therapy or support groups; explore extracurricular activities.,No immediate action needed.,Rohan Mehta,M003
+Abhay Dutta,STU384,7.4,4.0,100.0,0.0,none,0.0,0,0,8,2,1.4,Low Risk,ERROR - See terminal for details,No immediate action needed.,Ananya Gupta,M004
+Jyoti Dutta,STU385,5.4,2.0,80.0,57379.0,small,2.0,3,0,6,6,2.85,Low Risk,ERROR - See terminal for details,No immediate action needed.,Kunal Verma,M005
+Rekha Iyer,STU010,3.2,0.0,94.0,20039.0,very_small,1.0,1,0,0,8,1.25,Low Risk,Focus on improving CGPA; explore leadership opportunities or clubs to broaden experience; maintain perfect attendance.,No immediate action needed.,Priya Nair,M006
+Vikas Nair,STU387,4.2,1.0,91.0,0.0,none,0.0,0,0,2,8,1.1,Low Risk,ERROR - See terminal for details,No immediate action needed.,Vikram Singh,M007
+Vikas Desai,STU074,4.1,1.0,65.0,0.0,none,0.0,0,7,2,8,3.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Sanya Khanna,M008
+Deepak Kulkarni,STU073,7.5,5.0,98.0,0.0,none,0.0,0,0,8,2,1.4,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aditya Rao,M009
+Manav Trivedi,STU390,7.6,1.0,55.0,57223.0,small,2.0,3,7,2,2,3.95,Low Risk,ERROR - See terminal for details,No immediate action needed.,Meera Desai,M010
+Nisha Malhotra,STU072,6.4,1.0,100.0,67580.0,medium,3.0,6,0,2,4,3.4,Low Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Rahul Kapoor,M011
+Siddharth Iyer,STU019,5.5,6.0,84.0,44077.0,small,2.0,3,0,8,6,3.15,Low Risk,Address internal factors impacting academic performance (counseling); Improve study habits;  Consider time management workshops.,No immediate action needed.,Nikita Iyer,M012
+Harsh Banerjee,STU012,5.1,3.0,78.0,0.0,none,0.0,0,0,8,6,1.8,Low Risk,Maintain CGPA; explore stress-management techniques to address internal risk; actively participate in college life.,No immediate action needed.,Arjun Malhotra,M013
+Neha Reddy,STU071,9.1,1.0,36.0,0.0,none,0.0,0,9,2,0,2.9999999999999996,Low Risk,ERROR - See terminal for details,No immediate action needed.,Simran Kaur,M014
+Varun Dutta,STU412,7.8,6.0,70.0,30199.0,very_small,1.0,1,4,8,2,3.05,Low Risk,ERROR - See terminal for details,No immediate action needed.,Dev Patel,M015
+Siddharth Gupta,STU056,7.3,4.0,84.0,0.0,none,0.0,0,0,8,2,1.4,Low Risk,ERROR - See terminal for details,No immediate action needed.,Pooja Menon,M016
+Dev Saxena,STU024,8.4,6.0,98.0,0.0,none,0.0,0,0,8,0,1.2,Low Risk,Focus on proactive stress management strategies; Explore leadership opportunities; Consider mentorship for future career planning.,No immediate action needed.,Manish Joshi,M017
+Nisha Bose,STU040,6.0,0.0,83.0,46110.0,small,2.0,3,0,0,6,1.9500000000000002,Low Risk,ERROR - See terminal for details,No immediate action needed.,Neha Choudhary,M018
+Anjali Sharma,STU039,6.4,0.0,51.0,11186.0,very_small,1.0,1,7,0,4,2.95,Low Risk,ERROR - See terminal for details,No immediate action needed.,Siddharth Jain,M019
+Ritika Nair,STU441,7.2,5.0,61.0,38675.0,very_small,1.0,1,7,8,2,3.95,Low Risk,ERROR - See terminal for details,No immediate action needed.,Tanya Bhatia,M020
+Aarti Saxena,STU466,3.6,1.0,74.0,0.0,none,0.0,0,4,2,8,2.3,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aarav Sharma,M001
+Sneha Chopra,STU037,3.5,0.0,67.0,0.0,none,0.0,0,4,0,8,2.0,Low Risk,ERROR - See terminal for details,No immediate action needed.,Isha Patel,M002
+Meera Mishra,STU444,8.3,0.0,42.0,1135.0,very_small,1.0,1,9,0,0,3.15,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rohan Mehta,M003
+Ritika Banerjee,STU036,5.3,2.0,58.0,0.0,none,0.0,0,7,6,6,3.6,Low Risk,ERROR - See terminal for details,No immediate action needed.,Ananya Gupta,M004
+Sameer Dutta,STU446,5.8,2.0,69.0,0.0,none,0.0,0,4,6,6,2.6999999999999997,Low Risk,ERROR - See terminal for details,No immediate action needed.,Kunal Verma,M005
+Raj Mishra,STU465,5.9,5.0,63.0,0.0,none,0.0,0,7,8,6,3.9,Low Risk,ERROR - See terminal for details,No immediate action needed.,Priya Nair,M006
+Priya Choudhary,STU035,8.4,1.0,69.0,33123.0,very_small,1.0,1,4,2,0,1.95,Low Risk,ERROR - See terminal for details,No immediate action needed.,Vikram Singh,M007
+Abhay Chopra,STU464,8.1,4.0,51.0,0.0,none,0.0,0,7,8,0,3.3,Low Risk,ERROR - See terminal for details,No immediate action needed.,Sanya Khanna,M008
+Rekha Bose,STU463,8.3,4.0,80.0,12221.0,very_small,1.0,1,0,8,0,1.65,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aditya Rao,M009
+Ravi Agarwal,STU462,8.8,0.0,66.0,70437.0,medium,3.0,6,4,0,0,3.9000000000000004,Low Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Meera Desai,M010
+Rahul Trivedi,STU034,8.8,6.0,37.0,0.0,none,0.0,0,9,8,0,3.8999999999999995,Low Risk,Focus on stress management techniques;  Address attendance issues and identify underlying causes; Explore academic support resources.,No immediate action needed.,Rahul Kapoor,M011
+Nisha Singh,STU461,8.2,0.0,56.0,26843.0,very_small,1.0,1,7,0,0,2.5500000000000003,Low Risk,ERROR - See terminal for details,No immediate action needed.,Nikita Iyer,M012
+Siddharth Reddy,STU459,6.1,3.0,65.0,0.0,none,0.0,0,7,8,4,3.6999999999999997,Low Risk,ERROR - See terminal for details,No immediate action needed.,Arjun Malhotra,M013
+Sneha Agarwal,STU451,8.0,2.0,57.0,12429.0,very_small,1.0,1,7,6,2,3.6500000000000004,Low Risk,ERROR - See terminal for details,No immediate action needed.,Simran Kaur,M014
+Priya Mehta,STU458,6.5,6.0,91.0,31242.0,very_small,1.0,1,0,8,4,2.05,Low Risk,ERROR - See terminal for details,No immediate action needed.,Dev Patel,M015
+Ravi Khanna,STU452,4.4,2.0,89.0,48155.0,small,2.0,3,0,6,8,3.05,Low Risk,ERROR - See terminal for details,No immediate action needed.,Pooja Menon,M016
+Nikhil Chopra,STU453,8.0,3.0,53.0,0.0,none,0.0,0,7,8,2,3.5,Low Risk,ERROR - See terminal for details,No immediate action needed.,Manish Joshi,M017
+Harsh Malhotra,STU027,6.1,3.0,89.0,0.0,none,0.0,0,0,8,4,1.6,Low Risk,Explore stress management techniques; Focus on proactive academic engagement; Develop a strong support network.,No immediate action needed.,Neha Choudhary,M018
+Alok Malhotra,STU026,8.2,5.0,59.0,9091.0,very_small,1.0,1,7,8,0,3.75,Low Risk,Address attendance issues;  Seek professional support for underlying internal issues; Focus on maintaining academic excellence.,No immediate action needed.,Siddharth Jain,M019
+Tanya Choudhary,STU437,5.2,1.0,42.0,0.0,none,0.0,0,9,2,6,3.5999999999999996,Low Risk,ERROR - See terminal for details,No immediate action needed.,Tanya Bhatia,M020
+Rohan Chopra,STU436,5.2,1.0,100.0,73107.0,medium,3.0,6,0,2,6,3.6,Low Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Aarav Sharma,M001
+Arjun Agarwal,STU435,5.4,1.0,76.0,0.0,none,0.0,0,0,2,6,0.9000000000000001,Low Risk,ERROR - See terminal for details,No immediate action needed.,Isha Patel,M002
+Ishita Mishra,STU434,8.8,4.0,52.0,0.0,none,0.0,0,7,8,0,3.3,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rohan Mehta,M003
+Ishita Malhotra,STU457,5.4,3.0,67.0,0.0,none,0.0,0,4,8,6,3.0,Low Risk,ERROR - See terminal for details,No immediate action needed.,Ananya Gupta,M004
+Divya Rao,STU413,3.1,4.0,81.0,0.0,none,0.0,0,0,8,8,2.0,Low Risk,ERROR - See terminal for details,No immediate action needed.,Kunal Verma,M005
+Aarti Trivedi,STU414,7.7,6.0,67.0,0.0,none,0.0,0,4,8,2,2.6,Low Risk,ERROR - See terminal for details,No immediate action needed.,Priya Nair,M006
+Simran Iyer,STU473,3.3,3.0,69.0,0.0,none,0.0,0,4,8,8,3.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Vikram Singh,M007
+Arjun Menon,STU417,9.3,0.0,41.0,0.0,none,0.0,0,9,0,0,2.6999999999999997,Low Risk,ERROR - See terminal for details,No immediate action needed.,Sanya Khanna,M008
+Gaurav Gupta,STU052,8.9,1.0,53.0,46899.0,small,2.0,3,7,2,0,3.75,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aditya Rao,M009
+Arjun Gupta,STU419,5.4,6.0,80.0,0.0,none,0.0,0,0,8,6,1.8,Low Risk,ERROR - See terminal for details,No immediate action needed.,Meera Desai,M010
+Maya Das,STU051,8.4,4.0,80.0,13855.0,very_small,1.0,1,0,8,0,1.65,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rahul Kapoor,M011
+Arjun Ganguly,STU472,9.4,1.0,96.0,20252.0,very_small,1.0,1,0,2,0,0.75,Low Risk,ERROR - See terminal for details,No immediate action needed.,Nikita Iyer,M012
+Manav Bose,STU421,3.6,2.0,87.0,35669.0,very_small,1.0,1,0,6,8,2.15,Low Risk,ERROR - See terminal for details,No immediate action needed.,Arjun Malhotra,M013
+Ishita Khanna,STU050,5.1,3.0,67.0,0.0,none,0.0,0,4,8,6,3.0,Low Risk,ERROR - See terminal for details,No immediate action needed.,Simran Kaur,M014
+Kabir Gupta,STU475,3.9,6.0,94.0,9195.0,very_small,1.0,1,0,8,8,2.45,Low Risk,ERROR - See terminal for details,No immediate action needed.,Dev Patel,M015
+Anjali Kapoor,STU471,7.1,6.0,68.0,0.0,none,0.0,0,4,8,2,2.6,Low Risk,ERROR - See terminal for details,No immediate action needed.,Pooja Menon,M016
+Varun Singh,STU424,6.2,4.0,81.0,37728.0,very_small,1.0,1,0,8,4,2.05,Low Risk,ERROR - See terminal for details,No immediate action needed.,Manish Joshi,M017
+Ritu Choudhary,STU049,5.6,2.0,95.0,0.0,none,0.0,0,0,6,6,1.5,Low Risk,ERROR - See terminal for details,No immediate action needed.,Neha Choudhary,M018
+Kunal Rao,STU048,7.9,5.0,66.0,44296.0,small,2.0,3,4,8,2,3.95,Low Risk,ERROR - See terminal for details,No immediate action needed.,Siddharth Jain,M019
+Ritu Rao,STU427,9.4,4.0,69.0,9077.0,very_small,1.0,1,4,8,0,2.8499999999999996,Low Risk,ERROR - See terminal for details,No immediate action needed.,Tanya Bhatia,M020
+Maya Reddy,STU047,8.0,5.0,69.0,0.0,none,0.0,0,4,8,2,2.6,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aarav Sharma,M001
+Rohan Pillai,STU429,8.9,2.0,96.0,66175.0,medium,3.0,6,0,6,0,3.6,Low Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Isha Patel,M002
+Ravi Trivedi,STU470,6.6,3.0,50.0,0.0,none,0.0,0,7,8,4,3.6999999999999997,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rohan Mehta,M003
+Ritika Reddy,STU022,6.3,5.0,85.0,2914.0,very_small,1.0,1,0,8,4,2.05,Low Risk,Explore stress management techniques; Address internal factors hindering academic success (counseling);  Develop effective study habits.,No immediate action needed.,Ananya Gupta,M004
+Kiran Choudhary,STU023,8.0,1.0,95.0,5379.0,very_small,1.0,1,0,2,2,0.95,Low Risk,Maintain proactive academic engagement;  Continue building strong study habits;  Explore extracurricular activities to enhance overall well-being.,No immediate action needed.,Kunal Verma,M005
+Amit Pillai,STU042,7.0,4.0,80.0,2624.0,very_small,1.0,1,0,8,4,2.05,Low Risk,ERROR - See terminal for details,No immediate action needed.,Priya Nair,M006
+Sanya Nair,STU371,9.5,1.0,38.0,0.0,none,0.0,0,9,2,0,2.9999999999999996,Low Risk,ERROR - See terminal for details,No immediate action needed.,Vikram Singh,M007
+Payal Mehta,STU423,9.0,1.0,44.0,16160.0,very_small,1.0,1,9,2,0,3.4499999999999997,Low Risk,ERROR - See terminal for details,No immediate action needed.,Sanya Khanna,M008
+Simran Verma,STU089,7.6,2.0,93.0,60468.0,medium,3.0,6,0,6,2,3.8000000000000003,Low Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Aditya Rao,M009
+Vikas Banerjee,STU206,9.1,5.0,53.0,0.0,none,0.0,0,7,8,0,3.3,Low Risk,ERROR - See terminal for details,No immediate action needed.,Meera Desai,M010
+Dev Bose,STU090,7.6,5.0,62.0,0.0,none,0.0,0,7,8,2,3.5,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rahul Kapoor,M011
+Siddharth Joshi,STU246,9.4,2.0,87.0,0.0,none,0.0,0,0,6,0,0.8999999999999999,Low Risk,ERROR - See terminal for details,No immediate action needed.,Nikita Iyer,M012
+Kavya Kulkarni,STU247,8.8,4.0,98.0,29668.0,very_small,1.0,1,0,8,0,1.65,Low Risk,ERROR - See terminal for details,No immediate action needed.,Arjun Malhotra,M013
+Sameer Mehta,STU180,6.1,4.0,84.0,45571.0,small,2.0,3,0,8,4,2.9499999999999997,Low Risk,ERROR - See terminal for details,No immediate action needed.,Simran Kaur,M014
+Ayesha Rao,STU179,9.4,3.0,80.0,35078.0,very_small,1.0,1,0,8,0,1.65,Low Risk,ERROR - See terminal for details,No immediate action needed.,Dev Patel,M015
+Rahul Menon,STU499,7.5,5.0,64.0,0.0,none,0.0,0,7,8,2,3.5,Low Risk,ERROR - See terminal for details,No immediate action needed.,Pooja Menon,M016
+Simran Rao,STU178,3.3,5.0,95.0,18507.0,very_small,1.0,1,0,8,8,2.45,Low Risk,ERROR - See terminal for details,No immediate action needed.,Manish Joshi,M017
+Rahul Sharma,STU176,9.0,5.0,66.0,0.0,none,0.0,0,4,8,0,2.4,Low Risk,ERROR - See terminal for details,No immediate action needed.,Neha Choudhary,M018
+Ritika Mishra,STU174,5.8,3.0,59.0,0.0,none,0.0,0,7,8,6,3.9,Low Risk,ERROR - See terminal for details,No immediate action needed.,Siddharth Jain,M019
+Kavya Choudhary,STU255,8.8,5.0,76.0,76045.0,medium,3.0,6,0,8,0,3.9000000000000004,Low Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Tanya Bhatia,M020
+Shreya Bhat,STU173,4.9,3.0,82.0,37500.0,very_small,1.0,1,0,8,8,2.45,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aarav Sharma,M001
+Tanya Dutta,STU257,8.8,5.0,82.0,1410.0,very_small,1.0,1,0,8,0,1.65,Low Risk,ERROR - See terminal for details,No immediate action needed.,Isha Patel,M002
+Ananya Gupta,STU258,6.0,1.0,68.0,0.0,none,0.0,0,4,2,6,2.1,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rohan Mehta,M003
+Harsh Mishra,STU172,8.0,4.0,86.0,7394.0,very_small,1.0,1,0,8,2,1.8499999999999999,Low Risk,ERROR - See terminal for details,No immediate action needed.,Ananya Gupta,M004
+Amit Trivedi,STU244,7.1,1.0,60.0,36878.0,very_small,1.0,1,7,2,2,3.0500000000000003,Low Risk,ERROR - See terminal for details,No immediate action needed.,Kunal Verma,M005
+Maya Saxena,STU260,9.2,5.0,95.0,0.0,none,0.0,0,0,8,0,1.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Priya Nair,M006
+Nikhil Sharma,STU170,7.9,6.0,73.0,12532.0,very_small,1.0,1,4,8,2,3.05,Low Risk,ERROR - See terminal for details,No immediate action needed.,Vikram Singh,M007
+Siddharth Bhat,STU265,7.8,2.0,70.0,0.0,none,0.0,0,4,6,2,2.3,Low Risk,ERROR - See terminal for details,No immediate action needed.,Sanya Khanna,M008
+Kavya Bhat,STU267,6.5,1.0,37.0,0.0,none,0.0,0,9,2,4,3.3999999999999995,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aditya Rao,M009
+Sanya Bose,STU161,4.6,3.0,67.0,0.0,none,0.0,0,4,8,8,3.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Meera Desai,M010
+Nikhil Iyer,STU273,7.6,6.0,53.0,7067.0,very_small,1.0,1,7,8,2,3.95,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rahul Kapoor,M011
+Suresh Agarwal,STU274,4.6,2.0,94.0,0.0,none,0.0,0,0,6,8,1.7,Low Risk,ERROR - See terminal for details,No immediate action needed.,Nikita Iyer,M012
+Ishita Banerjee,STU275,3.7,0.0,83.0,0.0,none,0.0,0,0,0,8,0.8,Low Risk,ERROR - See terminal for details,No immediate action needed.,Arjun Malhotra,M013
+Rekha Mehta,STU276,5.1,0.0,56.0,0.0,none,0.0,0,7,0,6,2.7,Low Risk,ERROR - See terminal for details,No immediate action needed.,Simran Kaur,M014
+Maya Patel,STU159,6.5,2.0,80.0,0.0,none,0.0,0,0,6,4,1.2999999999999998,Low Risk,ERROR - See terminal for details,No immediate action needed.,Dev Patel,M015
+Payal Kapoor,STU157,6.8,0.0,65.0,0.0,none,0.0,0,7,0,4,2.5,Low Risk,ERROR - See terminal for details,No immediate action needed.,Pooja Menon,M016
+Harsh Bose,STU280,5.1,3.0,52.0,0.0,none,0.0,0,7,8,6,3.9,Low Risk,ERROR - See terminal for details,No immediate action needed.,Manish Joshi,M017
+Rahul Chopra,STU281,4.3,5.0,78.0,5818.0,very_small,1.0,1,0,8,8,2.45,Low Risk,ERROR - See terminal for details,No immediate action needed.,Neha Choudhary,M018
+Shreya Agarwal,STU155,9.3,2.0,76.0,0.0,none,0.0,0,0,6,0,0.8999999999999999,Low Risk,ERROR - See terminal for details,No immediate action needed.,Siddharth Jain,M019
+Aarti Reddy,STU262,6.5,3.0,66.0,0.0,none,0.0,0,4,8,4,2.8,Low Risk,ERROR - See terminal for details,No immediate action needed.,Tanya Bhatia,M020
+Tanvi Rao,STU243,5.8,3.0,76.0,52238.0,small,2.0,3,0,8,6,3.15,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aarav Sharma,M001
+Ananya Das,STU185,6.4,0.0,97.0,0.0,none,0.0,0,0,0,4,0.4,Low Risk,ERROR - See terminal for details,No immediate action needed.,Isha Patel,M002
+Vivek Rao,STU241,7.4,2.0,53.0,0.0,none,0.0,0,7,6,2,3.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rohan Mehta,M003
+Sameer Menon,STU203,4.3,4.0,80.0,59342.0,small,2.0,3,0,8,8,3.3499999999999996,Low Risk,ERROR - See terminal for details,No immediate action needed.,Ananya Gupta,M004
+Aarti Khanna,STU208,8.9,1.0,74.0,0.0,none,0.0,0,4,2,0,1.5,Low Risk,ERROR - See terminal for details,No immediate action needed.,Kunal Verma,M005
+Dev Mehta,STU209,7.1,0.0,100.0,0.0,none,0.0,0,0,0,2,0.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Priya Nair,M006
+Sahil Agarwal,STU210,4.1,3.0,79.0,0.0,none,0.0,0,0,8,8,2.0,Low Risk,ERROR - See terminal for details,No immediate action needed.,Vikram Singh,M007
+Divya Verma,STU202,5.7,1.0,77.0,0.0,none,0.0,0,0,2,6,0.9000000000000001,Low Risk,ERROR - See terminal for details,No immediate action needed.,Sanya Khanna,M008
+Neha Malhotra,STU200,7.2,3.0,96.0,0.0,none,0.0,0,0,8,2,1.4,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aditya Rao,M009
+Meera Rao,STU213,6.9,4.0,67.0,0.0,none,0.0,0,4,8,4,2.8,Low Risk,ERROR - See terminal for details,No immediate action needed.,Meera Desai,M010
+Priya Reddy,STU199,9.1,5.0,92.0,3408.0,very_small,1.0,1,0,8,0,1.65,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rahul Kapoor,M011
+Raj Reddy,STU215,7.1,5.0,82.0,0.0,none,0.0,0,0,8,2,1.4,Low Risk,ERROR - See terminal for details,No immediate action needed.,Nikita Iyer,M012
+Neha Singh,STU217,3.4,1.0,92.0,0.0,none,0.0,0,0,2,8,1.1,Low Risk,ERROR - See terminal for details,No immediate action needed.,Arjun Malhotra,M013
+Aarti Desai,STU196,5.1,6.0,93.0,0.0,none,0.0,0,0,8,6,1.8,Low Risk,ERROR - See terminal for details,No immediate action needed.,Simran Kaur,M014
+Rekha Bhat,STU219,4.2,1.0,71.0,0.0,none,0.0,0,4,2,8,2.3,Low Risk,ERROR - See terminal for details,No immediate action needed.,Dev Patel,M015
+Divya Khanna,STU195,6.2,5.0,96.0,40738.0,small,2.0,3,0,8,4,2.9499999999999997,Low Risk,ERROR - See terminal for details,No immediate action needed.,Pooja Menon,M016
+Vikas Reddy,STU221,8.9,2.0,59.0,27255.0,very_small,1.0,1,7,6,0,3.45,Low Risk,ERROR - See terminal for details,No immediate action needed.,Manish Joshi,M017
+Rahul Malhotra,STU222,3.8,2.0,74.0,0.0,none,0.0,0,4,6,8,2.8999999999999995,Low Risk,ERROR - See terminal for details,No immediate action needed.,Neha Choudhary,M018
+Nisha Rao,STU224,7.2,1.0,67.0,0.0,none,0.0,0,4,2,2,1.7,Low Risk,ERROR - See terminal for details,No immediate action needed.,Siddharth Jain,M019
+Simran Agarwal,STU225,4.1,1.0,79.0,0.0,none,0.0,0,0,2,8,1.1,Low Risk,ERROR - See terminal for details,No immediate action needed.,Tanya Bhatia,M020
+Aarav Dutta,STU227,7.0,2.0,53.0,9400.0,very_small,1.0,1,7,6,4,3.85,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aarav Sharma,M001
+Sneha Bhat,STU192,8.6,6.0,71.0,0.0,none,0.0,0,4,8,0,2.4,Low Risk,ERROR - See terminal for details,No immediate action needed.,Isha Patel,M002
+Harsh Nair,STU229,7.2,5.0,96.0,0.0,none,0.0,0,0,8,2,1.4,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rohan Mehta,M003
+Tanvi Bhat,STU230,3.3,2.0,79.0,0.0,none,0.0,0,0,6,8,1.7,Low Risk,ERROR - See terminal for details,No immediate action needed.,Ananya Gupta,M004
+Rahul Rao,STU231,5.6,2.0,98.0,0.0,none,0.0,0,0,6,6,1.5,Low Risk,ERROR - See terminal for details,No immediate action needed.,Kunal Verma,M005
+Simran Singh,STU190,4.7,1.0,55.0,0.0,none,0.0,0,7,2,8,3.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Priya Nair,M006
+Anjali Chopra,STU189,7.5,1.0,35.0,0.0,none,0.0,0,9,2,2,3.1999999999999997,Low Risk,ERROR - See terminal for details,No immediate action needed.,Vikram Singh,M007
+Kabir Kapoor,STU234,4.4,1.0,92.0,0.0,none,0.0,0,0,2,8,1.1,Low Risk,ERROR - See terminal for details,No immediate action needed.,Sanya Khanna,M008
+Kabir Patel,STU187,7.0,1.0,91.0,21048.0,very_small,1.0,1,0,2,4,1.15,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aditya Rao,M009
+Suresh Saxena,STU237,6.3,1.0,47.0,5851.0,very_small,1.0,1,9,2,4,3.8499999999999996,Low Risk,ERROR - See terminal for details,No immediate action needed.,Meera Desai,M010
+Rekha Malhotra,STU238,7.0,5.0,73.0,39490.0,very_small,1.0,1,4,8,4,3.2499999999999996,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rahul Kapoor,M011
+Ashwin Khanna,STU240,3.4,1.0,84.0,0.0,none,0.0,0,0,2,8,1.1,Low Risk,ERROR - See terminal for details,No immediate action needed.,Nikita Iyer,M012
+Anjali Agarwal,STU153,7.3,1.0,79.0,63917.0,medium,3.0,6,0,2,2,3.2,Low Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Arjun Malhotra,M013
+Pooja Rao,STU152,8.5,6.0,78.0,46972.0,small,2.0,3,0,8,0,2.55,Low Risk,ERROR - See terminal for details,No immediate action needed.,Simran Kaur,M014
+Sameer Pillai,STU151,4.4,4.0,96.0,52034.0,small,2.0,3,0,8,8,3.3499999999999996,Low Risk,ERROR - See terminal for details,No immediate action needed.,Dev Patel,M015
+Ravi Gupta,STU150,8.6,0.0,90.0,0.0,none,0.0,0,0,0,0,0.0,Low Risk,ERROR - See terminal for details,No immediate action needed.,Pooja Menon,M016
+Ritu Dutta,STU123,5.3,4.0,70.0,0.0,none,0.0,0,4,8,6,3.0,Low Risk,ERROR - See terminal for details,No immediate action needed.,Manish Joshi,M017
+Ravi Choudhary,STU331,5.3,6.0,54.0,0.0,none,0.0,0,7,8,6,3.9,Low Risk,ERROR - See terminal for details,No immediate action needed.,Neha Choudhary,M018
+Ravi Reddy,STU118,9.3,0.0,81.0,65818.0,medium,3.0,6,0,0,0,2.7,Low Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Siddharth Jain,M019
+Kavya Kapoor,STU117,8.8,5.0,86.0,0.0,none,0.0,0,0,8,0,1.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Tanya Bhatia,M020
+Kabir Das,STU115,3.4,0.0,73.0,9886.0,very_small,1.0,1,4,0,8,2.45,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aarav Sharma,M001
+Abhay Banerjee,STU337,6.5,1.0,69.0,0.0,none,0.0,0,4,2,4,1.9,Low Risk,ERROR - See terminal for details,No immediate action needed.,Isha Patel,M002
+Jyoti Bhat,STU114,8.2,1.0,92.0,48971.0,small,2.0,3,0,2,0,1.6500000000000001,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rohan Mehta,M003
+Ravi Nair,STU341,6.8,4.0,87.0,6304.0,very_small,1.0,1,0,8,4,2.05,Low Risk,ERROR - See terminal for details,No immediate action needed.,Ananya Gupta,M004
+Tanya Verma,STU111,8.3,0.0,68.0,52694.0,small,2.0,3,4,0,0,2.55,Low Risk,ERROR - See terminal for details,No immediate action needed.,Kunal Verma,M005
+Nisha Khanna,STU343,4.1,1.0,54.0,0.0,none,0.0,0,7,2,8,3.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Priya Nair,M006
+Abhay Rao,STU110,9.3,3.0,67.0,32187.0,very_small,1.0,1,4,8,0,2.8499999999999996,Low Risk,ERROR - See terminal for details,No immediate action needed.,Vikram Singh,M007
+Alok Menon,STU345,4.5,1.0,47.0,0.0,none,0.0,0,9,2,8,3.8,Low Risk,ERROR - See terminal for details,No immediate action needed.,Sanya Khanna,M008
+Anjali Malhotra,STU109,7.7,2.0,94.0,0.0,none,0.0,0,0,6,2,1.0999999999999999,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aditya Rao,M009
+Sanya Rao,STU347,8.4,6.0,57.0,0.0,none,0.0,0,7,8,0,3.3,Low Risk,ERROR - See terminal for details,No immediate action needed.,Meera Desai,M010
+Ravi Verma,STU108,3.8,4.0,79.0,43960.0,small,2.0,3,0,8,8,3.3499999999999996,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rahul Kapoor,M011
+Ritika Desai,STU349,8.7,3.0,52.0,0.0,none,0.0,0,7,8,0,3.3,Low Risk,ERROR - See terminal for details,No immediate action needed.,Nikita Iyer,M012
+Arjun Reddy,STU106,8.9,2.0,98.0,29552.0,very_small,1.0,1,0,6,0,1.3499999999999999,Low Risk,ERROR - See terminal for details,No immediate action needed.,Arjun Malhotra,M013
+Harsh Das,STU351,4.9,0.0,76.0,40296.0,small,2.0,3,0,0,8,2.1500000000000004,Low Risk,ERROR - See terminal for details,No immediate action needed.,Simran Kaur,M014
+Tanvi Das,STU352,3.4,6.0,88.0,1229.0,very_small,1.0,1,0,8,8,2.45,Low Risk,ERROR - See terminal for details,No immediate action needed.,Dev Patel,M015
+Rahul Patel,STU204,7.8,6.0,88.0,51046.0,small,2.0,3,0,8,2,2.75,Low Risk,ERROR - See terminal for details,No immediate action needed.,Pooja Menon,M016
+Pooja Kulkarni,STU102,7.0,6.0,77.0,0.0,none,0.0,0,0,8,4,1.6,Low Risk,ERROR - See terminal for details,No immediate action needed.,Manish Joshi,M017
+Shreya Rao,STU355,5.9,5.0,65.0,0.0,none,0.0,0,7,8,6,3.9,Low Risk,ERROR - See terminal for details,No immediate action needed.,Neha Choudhary,M018
+Divya Kulkarni,STU101,4.2,0.0,79.0,0.0,none,0.0,0,0,0,8,0.8,Low Risk,ERROR - See terminal for details,No immediate action needed.,Siddharth Jain,M019
+Suresh Banerjee,STU357,7.7,0.0,89.0,0.0,none,0.0,0,0,0,2,0.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Tanya Bhatia,M020
+Raj Bose,STU098,6.9,4.0,69.0,0.0,none,0.0,0,4,8,4,2.8,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aarav Sharma,M001
+Kunal Malhotra,STU362,4.3,1.0,46.0,0.0,none,0.0,0,9,2,8,3.8,Low Risk,ERROR - See terminal for details,No immediate action needed.,Isha Patel,M002
+Ashwin Bose,STU364,9.0,5.0,45.0,0.0,none,0.0,0,9,8,0,3.8999999999999995,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rohan Mehta,M003
+Suresh Das,STU366,6.0,3.0,58.0,0.0,none,0.0,0,7,8,6,3.9,Low Risk,ERROR - See terminal for details,No immediate action needed.,Ananya Gupta,M004
+Varun Rao,STU367,9.4,6.0,90.0,67942.0,medium,3.0,6,0,8,0,3.9000000000000004,Low Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Kunal Verma,M005
+Sanya Joshi,STU124,5.1,1.0,91.0,31806.0,very_small,1.0,1,0,2,6,1.35,Low Risk,ERROR - See terminal for details,No immediate action needed.,Priya Nair,M006
+Ananya Trivedi,STU369,6.0,6.0,78.0,4343.0,very_small,1.0,1,0,8,6,2.25,Low Risk,ERROR - See terminal for details,No immediate action needed.,Vikram Singh,M007
+Neha Trivedi,STU325,4.4,5.0,92.0,0.0,none,0.0,0,0,8,8,2.0,Low Risk,ERROR - See terminal for details,No immediate action needed.,Sanya Khanna,M008
+Kabir Rao,STU323,4.1,1.0,59.0,0.0,none,0.0,0,7,2,8,3.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aditya Rao,M009
+Ritu Banerjee,STU148,4.9,3.0,81.0,8101.0,very_small,1.0,1,0,8,8,2.45,Low Risk,ERROR - See terminal for details,No immediate action needed.,Meera Desai,M010
+Anjali Iyer,STU289,8.4,6.0,96.0,0.0,none,0.0,0,0,8,0,1.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rahul Kapoor,M011
+Sahil Bhat,STU290,6.3,4.0,99.0,0.0,none,0.0,0,0,8,4,1.6,Low Risk,ERROR - See terminal for details,No immediate action needed.,Nikita Iyer,M012
+Sanya Pillai,STU291,6.6,0.0,80.0,68197.0,medium,3.0,6,0,0,4,3.1,Low Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Arjun Malhotra,M013
+Suresh Chopra,STU147,8.1,0.0,85.0,0.0,none,0.0,0,0,0,0,0.0,Low Risk,ERROR - See terminal for details,No immediate action needed.,Simran Kaur,M014
+Nisha Saxena,STU146,7.5,3.0,98.0,3747.0,very_small,1.0,1,0,8,2,1.8499999999999999,Low Risk,ERROR - See terminal for details,No immediate action needed.,Dev Patel,M015
+Alok Khanna,STU294,5.3,3.0,71.0,0.0,none,0.0,0,4,8,6,3.0,Low Risk,ERROR - See terminal for details,No immediate action needed.,Pooja Menon,M016
+Gaurav Chopra,STU145,7.4,3.0,70.0,0.0,none,0.0,0,4,8,2,2.6,Low Risk,ERROR - See terminal for details,No immediate action needed.,Manish Joshi,M017
+Kabir Dutta,STU296,7.0,0.0,95.0,35646.0,very_small,1.0,1,0,0,4,0.8500000000000001,Low Risk,ERROR - See terminal for details,No immediate action needed.,Neha Choudhary,M018
+Aarav Mishra,STU144,7.5,0.0,85.0,0.0,none,0.0,0,0,0,2,0.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Siddharth Jain,M019
+Anjali Mehta,STU299,6.1,3.0,77.0,56158.0,small,2.0,3,0,8,4,2.9499999999999997,Low Risk,ERROR - See terminal for details,No immediate action needed.,Tanya Bhatia,M020
+Sahil Pillai,STU301,8.2,4.0,95.0,0.0,none,0.0,0,0,8,0,1.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aarav Sharma,M001
+Amit Khanna,STU302,3.3,0.0,99.0,0.0,none,0.0,0,0,0,8,0.8,Low Risk,ERROR - See terminal for details,No immediate action needed.,Isha Patel,M002
+Sanya Sharma,STU304,6.7,1.0,46.0,0.0,none,0.0,0,9,2,4,3.3999999999999995,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rohan Mehta,M003
+Amit Banerjee,STU305,8.9,4.0,51.0,0.0,none,0.0,0,7,8,0,3.3,Low Risk,ERROR - See terminal for details,No immediate action needed.,Ananya Gupta,M004
+Amit Ganguly,STU138,4.9,1.0,96.0,74147.0,medium,3.0,6,0,2,8,3.8,Low Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Kunal Verma,M005
+Abhay Singh,STU137,6.5,0.0,89.0,0.0,none,0.0,0,0,0,4,0.4,Low Risk,ERROR - See terminal for details,No immediate action needed.,Priya Nair,M006
+Manav Mehta,STU136,9.1,3.0,86.0,0.0,none,0.0,0,0,8,0,1.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Vikram Singh,M007
+Ritika Menon,STU309,9.3,4.0,80.0,78458.0,medium,3.0,6,0,8,0,3.9000000000000004,Low Risk,ERROR - See terminal for details,Action: Discuss fee installment plans or work-study options.,Sanya Khanna,M008
+Sneha Sharma,STU135,4.6,3.0,86.0,0.0,none,0.0,0,0,8,8,2.0,Low Risk,ERROR - See terminal for details,No immediate action needed.,Aditya Rao,M009
+Jyoti Iyer,STU134,9.4,0.0,64.0,0.0,none,0.0,0,7,0,0,2.1,Low Risk,ERROR - See terminal for details,No immediate action needed.,Meera Desai,M010
+Sneha Nair,STU133,4.0,1.0,72.0,0.0,none,0.0,0,4,2,8,2.3,Low Risk,ERROR - See terminal for details,No immediate action needed.,Rahul Kapoor,M011
+Kabir Khanna,STU313,7.6,2.0,55.0,0.0,none,0.0,0,7,6,2,3.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Nikita Iyer,M012
+Siddharth Rao,STU315,7.9,1.0,43.0,0.0,none,0.0,0,9,2,2,3.1999999999999997,Low Risk,ERROR - See terminal for details,No immediate action needed.,Arjun Malhotra,M013
+Priya Khanna,STU130,8.9,3.0,84.0,0.0,none,0.0,0,0,8,0,1.2,Low Risk,ERROR - See terminal for details,No immediate action needed.,Simran Kaur,M014
+Arjun Dutta,STU318,6.4,1.0,87.0,0.0,none,0.0,0,0,2,4,0.7,Low Risk,ERROR - See terminal for details,No immediate action needed.,Dev Patel,M015
+Ayesha Ganguly,STU319,4.1,0.0,62.0,0.0,none,0.0,0,7,0,8,2.9000000000000004,Low Risk,ERROR - See terminal for details,No immediate action needed.,Pooja Menon,M016
+Nikhil Saxena,STU320,5.8,3.0,86.0,0.0,none,0.0,0,0,8,6,1.8,Low Risk,ERROR - See terminal for details,No immediate action needed.,Manish Joshi,M017
+Arjun Kapoor,STU128,7.1,0.0,80.0,46925.0,small,2.0,3,0,0,2,1.55,Low Risk,ERROR - See terminal for details,No immediate action needed.,Neha Choudhary,M018
+Rahul Kapoor,STU324,4.0,3.0,89.0,0.0,none,0.0,0,0,8,8,2.0,Low Risk,ERROR - See terminal for details,No immediate action needed.,Siddharth Jain,M019
+Ritu Kapoor,STU250,5.9,3.0,86.0,51180.0,small,2.0,3,0,8,6,3.15,Low Risk,ERROR - See terminal for details,No immediate action needed.,Tanya Bhatia,M020
