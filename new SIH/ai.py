@@ -16,11 +16,12 @@ import sys # <-- This line allows the script to read command-line arguments
 warnings.filterwarnings('ignore')
 
 # --- Twilio Configuration ---
-# Your credentials should be here
-ACCOUNT_SID = "AC515bdbce10d1cc87f2155a77641b6b75" 
-AUTH_TOKEN = "1449e01d02815c17f8386da11a1b9323"
-TWILIO_PHONE_NUMBER = "whatsapp:+14155238886"  # Twilio's Sandbox Number
-MENTOR_PHONE_NUMBER = "whatsapp:+919636601573" # Your Verified WhatsApp Number
+
+# Uncomment the bottom 4 lines and enter the ACCOUNT SID AND AUTH TOKEN for WhatsApp notification part to work (TWILIO API Isn't allowing me to post my details publicly on GITHUB)
+# ACCOUNT_SID = "" 
+# AUTH_TOKEN = ""
+# TWILIO_PHONE_NUMBER = "whatsapp:+14155238886"  # Twilio's Sandbox Number
+# MENTOR_PHONE_NUMBER = "whatsapp:+919636601573" # Your Verified WhatsApp Number
 
 # --- (All your other functions like send_notification, load_student_data, etc., remain unchanged) ---
 def send_notification(student_name, student_id, risk_score):
